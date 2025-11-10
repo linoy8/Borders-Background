@@ -1,0 +1,107 @@
+﻿body
+{
+}
+/*Linoy Israel*/
+/*Task 1*/
+.profile-card img {
+    
+    
+    height:200px;
+    width:200px;
+    
+    border-radius: 50%;
+   
+    
+}
+.profile-card p,h1{
+    text-align:center;
+    
+}
+.profile-card {
+    box-shadow: 4px 4px 10px rgba(0,0,0,0.4);
+    text-align: center;
+    border: solid blue;
+    background-color: antiquewhite;
+}
+
+/*Task 2*/
+.custom-btn{
+    border-radius:20%;
+    border:solid red;
+    background-color:blue;
+    width:200px;
+    height:200px;
+}
+.custom-btn:hover{
+    background-color:orange;
+    text-shadow: 4px 4px 30px rgba(0,0,0,0.4);
+}
+
+/*Task 3*/
+.banner{
+    background-image: url('style/game.jpg');
+    background-size:cover;
+    background-repeat:no-repeat;
+    background-position:center;
+    height:400px;
+}
+.text{
+   
+   text-align:center;
+    background: rgb(192 200 121 /40%);
+    padding:5px;
+}
+
+/*Task 4*/
+.box{
+    background-image: url('style/game.jpg');
+
+   
+   height:200px;
+   width:300px;
+    background-color:#f9f9f9;
+    border:2px dashed gray ;
+    
+}
+
+/*Task 5*/
+.avatar{
+    height:100px;
+    width:100px;
+    background-image: url('style/valorant.jpg');
+    border-radius:50%;
+    background-size:cover;
+
+}
+/*Task 6*/
+.card{
+    width:320px;
+    padding:20px;  
+    border:1px solid #ddd;
+    border-radius:12px;
+    background-color:white;
+  
+}
+.card p{
+    font-size:1.6rem;
+}
+
+/*Task 7*/
+.banner2{
+    height:300px;
+    background-image: url("style/game.jpg");
+    background-size:cover;
+    background-position:center;
+    
+}
+.banner2 p {
+color:white;
+}
+/*Task 8*/
+.btn{
+    background-image:url('style/valorant.jpg');
+    color:white;
+    padding:10px 20px;
+    border:none;
+    border-radius:8px;
+}
